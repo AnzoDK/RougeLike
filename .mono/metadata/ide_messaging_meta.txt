@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+﻿36581
+=======
+﻿34417
+>>>>>>> 149192e (Startdo)
+/opt/godot-mono-bin/godot/Godot_v3.3.2-stable_mono_x11.64
