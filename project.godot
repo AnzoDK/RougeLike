@@ -8,8 +8,6 @@
 
 config_version=4
 
-<<<<<<< HEAD
-=======
 _global_script_classes=[ {
 "base": "",
 "class": "GitAPI",
@@ -20,19 +18,15 @@ _global_script_class_icons={
 "GitAPI": ""
 }
 
->>>>>>> 149192e (Startdo)
 [application]
 
 config/name="RougeLike"
 config/icon="res://icon.png"
 
-<<<<<<< HEAD
-=======
 [gdnative]
 
 singletons=[ "res://git_api.gdnlib" ]
 
->>>>>>> 149192e (Startdo)
 [physics]
 
 common/enable_pause_aware_picking=true
