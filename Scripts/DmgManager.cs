@@ -3,7 +3,7 @@ using Godot;
 
 public class DmgTypeBase
 {
-
+    public string anders = "";
 }
 
 public class Fire : DmgTypeBase
