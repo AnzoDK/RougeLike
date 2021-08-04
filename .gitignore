@@ -8,3 +8,4 @@ lib/
 .mono/metadata/
 .vs/*
 *.log
+.mono/temp/*
