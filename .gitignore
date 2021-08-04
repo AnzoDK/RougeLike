@@ -5,6 +5,6 @@
 bin/
 build/
 lib/
-.mono/metadata
+.mono/metadata/
 .vs/*
 *.log
