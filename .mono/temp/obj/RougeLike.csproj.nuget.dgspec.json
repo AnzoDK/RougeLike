@@ -1,38 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Godot_v3.3.2-stable_mono_win64\\Projects\\Rouge like 1\\RougeLike\\RougeLike.csproj": {}
+    "F:\\Godot Projects\\RougeLike\\RougeLike.csproj": {}
   },
   "projects": {
-    "E:\\Godot_v3.3.2-stable_mono_win64\\Projects\\Rouge like 1\\RougeLike\\RougeLike.csproj": {
+    "F:\\Godot Projects\\RougeLike\\RougeLike.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Godot_v3.3.2-stable_mono_win64\\Projects\\Rouge like 1\\RougeLike\\RougeLike.csproj",
+        "projectUniqueName": "F:\\Godot Projects\\RougeLike\\RougeLike.csproj",
         "projectName": "RougeLike",
-        "projectPath": "E:\\Godot_v3.3.2-stable_mono_win64\\Projects\\Rouge like 1\\RougeLike\\RougeLike.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "E:\\GODOT_V3.3.2-STABLE_MONO_WIN64\\PROJECTS\\ROUGE LIKE 1\\ROUGELIKE\\.mono\\temp\\obj\\",
+        "projectPath": "F:\\Godot Projects\\RougeLike\\RougeLike.csproj",
+        "packagesPath": "C:\\Users\\Jens\\.nuget\\packages\\",
+        "outputPath": "F:\\GODOT PROJECTS\\ROUGELIKE\\.mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Jens\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net472": {
-            "targetAlias": "net472",
             "projectReferences": {}
           }
         },
@@ -43,10 +37,7 @@
         }
       },
       "frameworks": {
-        "net472": {
-          "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
-        }
+        "net472": {}
       }
     }
   }
